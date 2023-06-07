@@ -1,0 +1,197 @@
+*{
+    font-family: Poppins ,sans-serif;
+    color:white;
+    
+}
+img{
+    border-radius: 25px;
+}
+#no{
+    border-radius: 0px;
+}
+
+/* Custom Button */
+.btn-pri{
+    border-radius: 10px;
+    background-color:#76B5FF;
+    color: white;
+    border: none;
+    padding:20px;
+    font-size: 18px;
+}
+
+.btn-pri:hover{
+    background-color: #ffffff;
+    color: #12294D;
+}
+
+.btn-pri-t:hover{
+    background-color: #12294D;
+    color: #ffffff;
+}
+
+.btn-sec{
+    border-radius: 10px;
+    background-color: #12294D;
+    color: white;
+    border: 1px solid white;
+    padding: 20px;
+    font-size: 18px;
+}
+
+.btn-sec:hover{
+    background-color: white;
+    color: #12294D;
+}
+
+.btn-sec-t:hover{
+    background-color: #ffffff;
+    color: #12294D;
+    border: 1px solid #12294D;
+}
+
+/* Navbar */
+.navbar{
+    background-color: #12294D;
+}
+.navbar-brand.logo{
+color: white;
+font-size: 28px;
+}
+
+.navbar-brand.logo:hover{
+    color: #1c92ff;
+    
+}
+
+.nav-item>a{
+color: #ffffff;
+margin-left: 10px;
+}
+.nav-item>a:hover{
+    color:#1c92ff;
+}
+
+.nav-item>a:click{
+    color:aqua;
+}
+
+
+
+
+
+/* Hero Section */
+.hero{
+    background-color:#12294D ;
+    border-radius: 0px 0px 50px 50px;
+}
+
+/* About us  */
+
+.about{
+    background-color:#12294D ;
+    /* border-radius: 50px 50px 50px 50px; */
+
+    
+}
+.common-title{
+    letter-spacing: 2px;
+    color:#76B5FF;
+}
+/* Service */
+.service-title{
+    color: #12294D;
+}
+.service-subtitle{
+    color:#959393;
+    letter-spacing: 1px;
+}
+
+
+
+
+
+
+  .contact-main{
+    /* border: 2px solid #1D88FE; */
+    padding: 10px;
+    border-radius: 25px;
+    background-color: #12294D !important;
+    /* -webkit-box-shadow: 5px 5px 0px 5px rgba(0, 0, 0, 1);
+    -moz-box-shadow: 5px 5px 0px 5px rgba(0, 0, 0, 1);
+    box-shadow: 5px 5px 0px 5px rgba(0, 0, 0, 1); */
+}
+
+
+
+
+
+.form-icon {
+    font-size: 20px;
+    color: #000000;
+    border: none;
+}
+
+
+
+
+#Name,
+#Email {
+    padding: 6px 0px;
+    padding-left: 7px;
+    border: none;
+    outline: none;
+    width: 100%;
+    color:#000000;
+}
+
+#Name,#Email:hover {
+    outline: none;
+    border: none;
+    background-color: white !important;
+}
+
+/* footer */
+footer {
+    background-color: #001111;
+    color: #fff
+}
+
+.list-unstyled>li {
+    padding-bottom: 0.7rem;
+}
+
+.list-unstyled>li>a {
+    color: #fff;
+    font-size: 0.9rem;
+}
+
+.list-unstyled>li>a:hover {
+    color: #1c92ff;
+}
+
+
+.list>li {
+    padding: 0rem;
+    font-size: 0.9rem;
+}
+
+.list>li:hover {
+    color: #1c92ff;
+}
+
+.footer-title {
+    color: #fff;
+}
+
+.link-dark :hover {
+    background-color: #1c92ff;
+    border: 5px solid #1c92ff;
+    margin: -5px;
+    border-radius: 5px;
+    color: #000000 !important;
+}
+
+
+
+
